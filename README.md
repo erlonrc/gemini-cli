@@ -23,7 +23,7 @@ This Python script allows you to use Gemini from the command line in a simple an
     ```bash
     python gemini.py <prompt> [-f <text_file>]
     ```
-    - **<prompt>**: The command you want to run on Gemini.
+    - **\<prompt\>**: The command you want to run on Gemini.
     - **-f <text_file>**: (optional) The text file that contains the content you want to send to Gemini (returns text in markdown format).
 
 ## Usage Examples:
