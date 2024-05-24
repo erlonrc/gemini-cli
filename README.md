@@ -12,7 +12,7 @@ This Python script allows you to use Gemini from the command line in a simple an
 ## How to Use:
 
 1. **Get your Gemini API key:**
-    Go to the Gemini website (https://developers.google.com/focus/ai-development)[https://developers.google.com/focus/ai-development] and create an account. Once you have created your account, you will be able to generate an API key.
+    Go to the [Google developer website](https://ai.google.dev/aistudio) and create an account. Once you have created your account, you will be able to generate an API key.
 
 2. **Create a .env file in the project folder with the following content:**
     ```bash
